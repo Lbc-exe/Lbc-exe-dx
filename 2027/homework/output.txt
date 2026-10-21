@@ -1,0 +1,14 @@
+2026年 10月 21日 星期三 22:52:45 CST
+最近使用的10条命令:
+  330  vim homework1.sh 
+  331  ./homework1.sh > ./output.txt 
+  332  vim homework1.sh 
+  333  ./homework1.sh > ./output.txt 
+  334  vim homework1.sh 
+  335  ./homework1.sh > ./output.txt 
+  336  vim homework1.sh 
+  337  ./homework1.sh > ./output.txt 
+  338  vim homework1.sh 
+  339  ./homework1.sh > ./output.txt 
+笔记字数:
+0
